@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (contador) {
 
-        const dataInicio = new Date("2024-01-01 00:00:00"); // ALTERE AQUI
+        const dataInicio = new Date("2025-10-04 00:00:00"); // ALTERE AQUI
 
         function atualizarContador() {
             const agora = new Date();
